@@ -8,7 +8,7 @@ module.exports = {
         env: { },                   // Edit this to customize environment variables (see documentation)
         path: "app",                // Edit this to customize the path to start the shell from
         message: [
-          "iopaint start-web-config --config-file iopaint-config.json",
+          "iopaint start-web-config",
         ],
         on: [{
           // The regular expression pattern to monitor.
